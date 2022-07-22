@@ -1,4 +1,4 @@
 node-test/node_modules/
-rust-test/target/
-csharp-test/obj/
+rust-test/target/*
+csharp-test/csharp-test/obj/*
 .DS_STORE
